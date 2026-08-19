@@ -2,7 +2,7 @@
 
 17 ans en Data & BI, spécialisé en Machine Learning et l'industrialisation de modèles en
 production. Les projets ci-dessous sont tous des plateformes MLOps complètes — pas des notebooks
-isolés : API, conteneurisation, tracking d'expériences, monitoring, et pour deux d'entre eux, une
+isolés : API, conteneurisation, tracking d'expériences, monitoring, et pour l'un d'entre eux, une
 démo en ligne.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zzeghoud-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zzeghoud)
