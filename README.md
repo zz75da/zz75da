@@ -48,5 +48,4 @@ RFM, CLV (BG/NBD + XGBoost), prédiction de churn, A/B testing corrigé
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-17 ans en amont sur Business Objects, MicroStrategy, Power BI et la gestion de portefeuilles de
-projets (Macif, Accor Hotels, Orange, Renault Group) — le détail est sur mon [LinkedIn](https://www.linkedin.com/in/zzeghoud).
+Pour plus d'information voir mon [LinkedIn](https://www.linkedin.com/in/zzeghoud).
