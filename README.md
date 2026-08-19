@@ -1,6 +1,6 @@
 ### Zobir Zeghoud — Data / MLOps Engineer
 
-17 ans en Data & BI, reconversion vers le Machine Learning et l'industrialisation de modèles en
+17 ans en Data & BI, spécialisé en Machine Learning et l'industrialisation de modèles en
 production. Les projets ci-dessous sont tous des plateformes MLOps complètes — pas des notebooks
 isolés : API, conteneurisation, tracking d'expériences, monitoring, et pour deux d'entre eux, une
 démo en ligne.
