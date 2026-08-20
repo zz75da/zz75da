@@ -32,6 +32,7 @@ FastAPI (train-api/predict-api) · DVC · MLflow · Prometheus/Grafana
 
 **[car_procurement](https://github.com/zz75da/car_procurement)** — Analytics achats & détection d'anomalies (Renault)
 Isolation Forest (anomalies de coût) + CatBoost (conformité fournisseurs, class-imbalance corrigée)
+J'ai débusqué un piège de classifieur nul (rappel de 0 % masqué par une accuracy de 89 %), puis appliqué la méthodologie d'évaluation correcte (pondération de classes équilibrée, F1-macro, ROC-AUC, validation croisée à 5 plis) pour révéler que le signal n'était en réalité pas présent.
 
 **[sales-analysis](https://github.com/zz75da/sales-analysis)** — Analytics client e-commerce
 RFM, CLV (BG/NBD + XGBoost), prédiction de churn, A/B testing corrigé
