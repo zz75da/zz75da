@@ -36,8 +36,7 @@ J'ai débusqué un piège de classifieur nul (rappel de 0 % masqué par une accu
 
 **[sales-analysis](https://github.com/zz75da/sales-analysis)** — Analytics client e-commerce
 RFM, CLV (BG/NBD + XGBoost), prédiction de churn, A/B testing corrigé
-
-<img src="https://raw.githubusercontent.com/zz75da/sales-analysis/main/rfm_visualisations.png" width="49%"> <img src="https://raw.githubusercontent.com/zz75da/sales-analysis/main/clv_tiers.png" width="49%">
+Gini 0,44 (concentration du revenu client) · A/B test genre : p<0,001 → p=0,18 après correction du biais de pseudo-réplication · Churn : AUC>0,99 signalé comme fuite de données (label = seuil sur une feature du modèle) · CLV : tiers Gold/Silver/Bronze = 44,9 %/22,6 %/32,5 % du revenu prédit à 12 mois
 
 ---
 
