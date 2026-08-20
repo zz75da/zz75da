@@ -37,6 +37,8 @@ J'ai débusqué un piège de classifieur nul (rappel de 0 % masqué par une accu
 **[sales-analysis](https://github.com/zz75da/sales-analysis)** — Analytics client e-commerce
 RFM, CLV (BG/NBD + XGBoost), prédiction de churn, A/B testing corrigé
 
+<img src="https://raw.githubusercontent.com/zz75da/sales-analysis/main/rfm_visualisations.png" width="49%"> <img src="https://raw.githubusercontent.com/zz75da/sales-analysis/main/clv_tiers.png" width="49%">
+
 ---
 
 #### Stack technique
