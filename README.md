@@ -10,7 +10,7 @@ démo en ligne.
 
 ---
 
-#### 🏆 Projets phares
+#### Projets phares
 
 **[rakuten_z](https://github.com/zz75da/rakuten_z)** — Classification multimodale de produits e-commerce
 FastAPI (14 services) · Airflow · MLflow/DVC · Prometheus/Grafana · Kubernetes (HPA testé)
@@ -19,12 +19,12 @@ FastAPI (14 services) · Airflow · MLflow/DVC · Prometheus/Grafana · Kubernet
 **[income-inequality-mlops](https://github.com/zz75da/income-inequality-mlops)** — Prédiction des inégalités de revenus par pays
 Airflow · DVC/DagsHub · MLflow avec gates de promotion en registre · Prometheus/Grafana · SHAP
 Gini R² 0,614 · mobilité intergénérationnelle R² 0,358 · classe de revenu 99,1% — 3 modèles en Production
-**[🚀 Démo en ligne](https://income-inequality-mlops-zz75da.streamlit.app/)**
+**[Démo en ligne](https://income-inequality-mlops-zz75da.streamlit.app/)**
 
 **[MedSentry — confidentiality_level_pred](https://github.com/zz75da/confidentiality_level_pred)** — Classificateur de risque pour projets health-tech
 9 classificateurs gradient-boosted (scikit-learn) sur 3 dimensions de risque (réglementaire/vie privée, sécurité patient, PI/financier) · suite de tests complète · CI · desktop (Tkinter) + web (Streamlit)
 Précision moyenne 72,2 % vs 43,5 % (baseline classe majoritaire) sur données synthétiques, limites documentées dans le model card
-**[🚀 Démo en ligne](https://confidentialitylevelpred-zz75da.streamlit.app/)**
+**[Démo en ligne](https://confidentialitylevelpred-zz75da.streamlit.app/)**
 
 **[elec_prediction](https://github.com/zz75da/elec_prediction)** — Prévision de consommation électrique multi-pays
 FastAPI (train-api/predict-api) · DVC · MLflow · Prometheus/Grafana
@@ -38,7 +38,7 @@ RFM, CLV (BG/NBD + XGBoost), prédiction de churn, A/B testing corrigé
 
 ---
 
-#### 🛠️ Stack technique
+#### Stack technique
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
