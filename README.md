@@ -52,3 +52,5 @@ RFM, CLV (BG/NBD + XGBoost), prédiction de churn, A/B testing corrigé
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
+Plus d'information sur mon [LinkedIn](https://www.linkedin.com/in/zzeghoud).
