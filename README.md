@@ -2,7 +2,7 @@
 
 17 ans en Data & BI, spécialisé en Machine Learning et l'industrialisation de modèles en
 production. Les projets ci-dessous sont tous des plateformes MLOps complètes — pas des notebooks
-isolés : API, conteneurisation, tracking d'expériences, monitoring, et pour l'un d'entre eux, une
+isolés : API, conteneurisation, tracking d'expériences, monitoring, et pour deux d'entre eux, une
 démo en ligne.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zzeghoud-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zzeghoud)
@@ -10,16 +10,21 @@ démo en ligne.
 
 ---
 
-#### Projets phares
-
-**[income-inequality-mlops](https://github.com/zz75da/income-inequality-mlops)** — Prédiction des inégalités de revenus par pays
-Airflow · DVC/DagsHub · MLflow avec gates de promotion en registre · Prometheus/Grafana · SHAP
-Gini R² 0,614 · mobilité intergénérationnelle R² 0,358 · classe de revenu 99,1% — 3 modèles en Production
-**[Démo en ligne](https://income-inequality-mlops-zz75da.streamlit.app/)**
+#### 🏆 Projets phares
 
 **[rakuten_z](https://github.com/zz75da/rakuten_z)** — Classification multimodale de produits e-commerce
 FastAPI (14 services) · Airflow · MLflow/DVC · Prometheus/Grafana · Kubernetes (HPA testé)
 85 000 produits, 27 catégories, fusion tardive texte+image — 84,9% de précision (CLIP ViT-B/32)
+
+**[income-inequality-mlops](https://github.com/zz75da/income-inequality-mlops)** — Prédiction des inégalités de revenus par pays
+Airflow · DVC/DagsHub · MLflow avec gates de promotion en registre · Prometheus/Grafana · SHAP
+Gini R² 0,614 · mobilité intergénérationnelle R² 0,358 · classe de revenu 99,1% — 3 modèles en Production
+**[🚀 Démo en ligne](https://income-inequality-mlops-zz75da.streamlit.app/)**
+
+**[MedSentry — confidentiality_level_pred](https://github.com/zz75da/confidentiality_level_pred)** — Classificateur de risque pour projets health-tech
+9 classificateurs gradient-boosted (scikit-learn) sur 3 dimensions de risque (réglementaire/vie privée, sécurité patient, PI/financier) · suite de tests complète · CI · desktop (Tkinter) + web (Streamlit)
+Précision moyenne 72,2 % vs 43,5 % (baseline classe majoritaire) sur données synthétiques, limites documentées dans le model card
+**[🚀 Démo en ligne](https://confidentialitylevelpred-zz75da.streamlit.app/)**
 
 **[elec_prediction](https://github.com/zz75da/elec_prediction)** — Prévision de consommation électrique multi-pays
 FastAPI (train-api/predict-api) · DVC · MLflow · Prometheus/Grafana
@@ -47,5 +52,3 @@ RFM, CLV (BG/NBD + XGBoost), prédiction de churn, A/B testing corrigé
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-
-Pour plus d'information voir mon [LinkedIn](https://www.linkedin.com/in/zzeghoud).
